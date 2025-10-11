@@ -1,6 +1,6 @@
 <h1>💻Kalyel Thierry</h1>
 <h3>Me chamo Kalyel Thierry, eu tenho 20 anos, sou do Rio Grande do Sul.<br>Atualmente eu trabalho como Assistente de Marketing, mas curso Ciência da Computação pela Estácio.<br>
-Sempre fuiapaixonado por computadores desde pequeno e atualmente estou realizando meu sonho de trabalhar e estudar com o computador.</h2>
+Sempre fui apaixonado por computadores desde pequeno e atualmente estou realizando meu sonho de trabalhar e estudar com o computador.</h2>
 
 ![Kalyel GitHub status](https://github-readme-stats.vercel.app/api?username=kalyelt&show_icons=true&theme=gotham&title_color=2fc87f7&border_color=000000&locale=pt-br&border_radius=30)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyelt&show_icons=true&theme=gotham&title_color=2fc87f7&border_color=000000&locale=pt-br&border_radius=30)
