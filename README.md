@@ -3,7 +3,7 @@
 Sempre fui apaixonado por computadores desde pequeno e atualmente estou realizando meu sonho de trabalhar e estudar com o computador.</h2>
 
 ![Kalyel GitHub status](https://github-readme-stats.vercel.app/api?username=kalyelt&show_icons=true&theme=gotham&title_color=2fc87f7&border_color=000000&locale=pt-br&border_radius=30)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyelt&show_icons=true&theme=gotham&title_color=2fc87f7&border_color=000000&locale=pt-br&border_radius=30)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-lang/?username=kalyelt&show_icons=true&theme=gotham&title_color=2fc87f7&border_color=000000&locale=pt-br&border_radius=30)
 
 <div style="display: inline_block">
   <img align="center" alt="Kaly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
